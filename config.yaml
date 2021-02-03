@@ -1,0 +1,6 @@
+port: :9999
+
+#gin启动模式
+gin:
+  #   debug   release   test
+  mode: debug
